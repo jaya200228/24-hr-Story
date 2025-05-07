@@ -61,7 +61,7 @@ src/
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Habibullah-R/24-hours-story.git
+   git clone https://github.com/jaya200228/24-hr-Story.git
    cd 24-hours-story
    ```
 
@@ -75,10 +75,7 @@ src/
 
    ```bash
    npm run dev
-   ```
-
-4. **Open the Application**:
-   - Visit `http://localhost:3000` (or the URL provided by your dev server).
+   `
 
 ---
 
@@ -134,9 +131,6 @@ src/
 
 ---
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
@@ -149,4 +143,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ### Author
 
-Developed by Habibullah.  
+Developed by Jaya.  
